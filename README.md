@@ -6,7 +6,7 @@
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path 
 and make this page render as quickly as possible by applying the techniques you've picked up in the Critical Rendering Path course.
 
-### Optimizarions 
+### Optimizations 
 
 - Compressed images for faster loading
 - Removed render blocking CSS by adding media queries
